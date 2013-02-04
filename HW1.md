@@ -22,4 +22,20 @@ Website 1
 	will take you to its appropiate page.  However the width sections are
 	switched around, being the 593px column on the right instead of the
 	left and the 367px column being on the left instead of the right.
+Website 2
+	dominos.com
+-Audience
+	The audience for the most part is targeted towards people who want
+	pizza.  Right away, users will see that Dominos has a weekday with a
+	call to action button of ORDER NOW.  It makes it simple for those
+	looking to order pizza since it seems a simple process to order from
+	Dominos.  There really isnt much navigation or confusion to the user.
+	The navigation menu also makes it simple for its audience to find other
+	products as well.
+-Golden Ration
+	Dominos uses the golden rtio with the call to action taking up the left
+	column of 593px.  Essentially is also serves like a billboard which
+	users will be able to read quickly.  To the right column of 367ox,
+	Dominos has content or other items which users are given the option to
+	order.
 
