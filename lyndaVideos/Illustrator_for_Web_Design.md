@@ -9,7 +9,7 @@ Videos Watched on Lynda.com - Illustrator For Web Design
 	are converted for web viewing.  Illustrator offers great accuracy for
 	creating web and mobile documents and allows users to save sized images
 	as templates for future use.  In addition, working with colors helped
-	me understand how to quickly gather colors that will be used often.  
+	me understand how to quickly gather colors that will be used often.
 
 	Watched following videos on 2/17/2013:  
 	Working with layers  
