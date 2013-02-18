@@ -1,6 +1,7 @@
 Videos Watched on Lynda.com - Illustrator For Web Design
 
-	Watch following videos on 2/17/2013:  
+-Watch following videos on 2/17/2013:
+
 	Introduction  
 	Core Concepts  
 	Working with Color  
@@ -11,7 +12,8 @@ Videos Watched on Lynda.com - Illustrator For Web Design
 	as templates for future use.  In addition, working with colors helped
 	me understand how to quickly gather colors that will be used often.
 
-	Watched following videos on 2/17/2013:  
+-Watched following videos on 2/17/2013:
+
 	Working with layers  
 	Working with shapes and symbols  
 	Creating Wireframes  
