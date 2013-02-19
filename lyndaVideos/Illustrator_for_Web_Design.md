@@ -4,6 +4,7 @@ Videos Watched on Lynda.com - Illustrator For Web Design
 	Introduction  
 	Core Concepts  
 	Working with Color  
+	  
 	What I learned during these videos was how Illustrator works, its
 	layout, what it can offer, and how pixels play a big role once images
 	are converted for web viewing.  Illustrator offers great accuracy for
@@ -16,6 +17,7 @@ Videos Watched on Lynda.com - Illustrator For Web Design
 	Working with shapes and symbols  
 	Creating Wireframes  
 	Working with text  
+	  
 	What I learned from the videos is how to efficiently manage images
 	using layers, speeding up my workflow by using symbols, and creating
 	wireframes either using guidelines or the 960 gridsystem. The video on
@@ -29,3 +31,16 @@ Videos Watched on Lynda.com - Illustrator For Web Design
 	offers many features like gridlines, paragraph styles, or symbola which
 	can be easily translated into actual code.  
 
+	Watch the following videos on 2/19/2013:  
+	Using Live Effects  
+	Creating a Web Site Mockup  
+	Creating UI Elements  
+	  
+	What I learned from the videos is how to preview effects on the current
+	object being edited, how to create an actual mockup with navigation buttons
+	and all the other good stuff, and working with User Interface elements.  The
+	most important chapter had to be ch8 because it showed how the actual
+	webpage would look like through a mockup.  It demonstrated the steps and
+	elements that are put on the page.  Also creating butons was something I
+	looked forward to learning because I feel they are an important part of the
+	mockup.  I feel it seperates a cheap mockup from a good mockup.
